@@ -1,4 +1,6 @@
+console.log("before loadadadadad")
 window.onload = function () {
+    console.log("on loadadadadadadads")
     const container = document.querySelector('.swiper-container');
     if(!container) return;
     container.style.overflow = 'hidden';
