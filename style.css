@@ -1,7 +1,3 @@
-.w-checkbox:has(div):has(.w--redirected-checked){
-  background: #958bd2 !important
-}
-
 .w-slider-dot{
   margin-left: 10px !important;
   margin-right: 10px !important;
