@@ -1,6 +1,5 @@
-console.log("before loadadadadad")
+/*
 window.onload = function () {
-    console.log("on loadadadadadadads")
     const container = document.querySelector('.swiper-container');
     if(!container) return;
     container.style.overflow = 'hidden';
@@ -57,3 +56,4 @@ window.onload = function () {
     swiper.style.margin = `${margin}px 0 0 -5px`;
     swiper.style.justifyContent = 'space-evenly';
 }
+*/
